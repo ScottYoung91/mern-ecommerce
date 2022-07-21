@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ScottYoung91/mern-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottYoung91/mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/ScottYoung91/mern-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
